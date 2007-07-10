@@ -22,7 +22,7 @@ filesystem isn't exposed (much like programs on PDAs).
 This packages contains a lot of extra pictures (stamps) for tuxpaint.
 
 %prep
-%setup -q -n %name 
+%setup -q
 rm -rf `find -name CVS`
 
 %install
