@@ -1,6 +1,6 @@
 Summary:	Pictures for use with the paint program Tuxpaint
 Name: 		tuxpaint-stamps
-Version:	2006.12.01
+Version:	2007.07.01
 Release:	%mkrel 1
 License:	GPL
 Source: 	%{name}-%{version}.tar.bz2
@@ -43,5 +43,3 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root)
 %doc docs/*
 %{_datadir}/tuxpaint/*
-
-
