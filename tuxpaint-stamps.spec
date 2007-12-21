@@ -7,6 +7,7 @@ Source: 	%{name}-%{version}.tar.bz2
 
 Group:		Graphics
 URL:		http://www.newbreedsoftware.com/tuxpaint/
+BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 Requires: 	tuxpaint
 
