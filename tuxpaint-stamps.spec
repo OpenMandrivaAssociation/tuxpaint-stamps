@@ -1,9 +1,9 @@
 Summary:	Pictures for use with the paint program Tuxpaint
 Name: 		tuxpaint-stamps
-Version:	2007.07.01
-Release:	%mkrel 2
+Version:	2008.06.30
+Release:	%mkrel 1
 License:	GPL
-Source: 	%{name}-%{version}.tar.bz2
+Source: 	%{name}-%{version}.tar.gz
 
 Group:		Graphics
 URL:		http://www.newbreedsoftware.com/tuxpaint/
