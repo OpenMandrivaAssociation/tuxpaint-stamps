@@ -4,7 +4,7 @@ Version:	2009.06.28
 Release:	4
 License:	GPL
 Group:		Graphics
-URL:		http://www.newbreedsoftware.com/tuxpaint/
+URL:		https://www.newbreedsoftware.com/tuxpaint/
 Source: 	%{name}-%{version}.tar.gz
 Patch0:		tuxpaint-stamps-2009.06.28-mixed-rules.patch
 
